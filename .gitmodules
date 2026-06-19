@@ -1,0 +1,3 @@
+[submodule "clo-author-template"]
+	path = clo-author-template
+	url = https://github.com/hugosantanna/clo-author.git
