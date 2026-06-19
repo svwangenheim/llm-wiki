@@ -3,6 +3,7 @@ VAULT_PATH
 
 # Local Claude Code settings (machine-specific, not shared)
 .claude/
+!clo-author-template/.claude/
 
 # LaTeX build artifacts
 *.aux
